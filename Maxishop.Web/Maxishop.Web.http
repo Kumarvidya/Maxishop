@@ -1,0 +1,6 @@
+@Maxishop.Web_HostAddress = http://localhost:5258
+
+GET {{Maxishop.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
